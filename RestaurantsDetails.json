@@ -1,0 +1,31 @@
+{
+    "restaurantDetails": [{
+        "Name": "INDIGO",
+        "Address": "4 Mandlik Road, Colaba, Mumbai 400 001",
+        "Cuisine": "EUROPEAN-ASIAN",
+        "WebSite" : "www.foodindigo.com",
+        "ImageUrl" :"./Images/Indigo.jpg",
+        "Description" : "Housed within a restored turn-of-the-century bungalow in fashionable South Mumbai, Indigo has long been the choice of celebrities and politicians. The restaurant is decorated with minimalist restraint and fine detailing. The main ground floor dining room, with its centerpiece of a sky-lit Shiva-blue pond, perfectly offsets the bustling bar with its deep red walls and staircase. The intimate dining room is available for private functions, while the terrace area of the Indigo Black Lounge is an exclusive adult hideaway. Offering a superb wine and single malt list, guests can enjoy an al-fresco dining experience set against the dramatic backdrop of the city."
+    }, {
+        "Name": "WASABI BY MORIMOTO",
+        "Address": "Tanna House, Mahakavi Bhushan Rd, Apollo Bandar, Mumbai 400 039",
+        "Cuisine": "JAPANESE",
+        "WebSite" : "www.tajhotels.com",
+        "ImageUrl" :"./Images/Wasabi.jpg",
+        "Description"  : "Head Chef Hemant Oberoi presides over an extensive menu of mouthwatering Japanese delicacies with an array of delicious sakes and succulent sushi. The gorgeous interior décor is dominated by the teppanyaki kitchen, which serves as a focal point of activity, as well as a large artwork by Mumbai artist Sadanand Shirke. The introduction of several new dishes, including Enoki Tempura and Shimaji Mushroom, has recently added to the menu, while the wide variety of single malts and blended whiskeys forms the perfect accompaniment to this exotic culinary experience. Private dining can be arranged for up to eight guests who will enjoy an exclusive selection of sushi prepared by their own personal chef."
+    }, {
+        "Name": "KOH BY IAN KITTICHAI",
+        "Address": "135 Marine Drive, Mumbai 400 020",
+        "Cuisine": "CONTEMPORARY THAI",
+        "WebSite" : "www.marine.intercontinental.com",
+        "ImageUrl" :"./Images/Koh.jpg",
+        "Description" :"Drawing on his vast experience at some of the world’s finest dining establishments, Kittichai has fashioned his own unique culinary style reflecting the flavors of his global journey. The menu has been crafted and created with the Indian vegetarian palate in mind, with 50% of the dishes meat free. KOH only uses fresh ingredients flown in from an organic farm in Thailand."
+    }, {
+        "Name": "GOLDEN DRAGON",
+        "Address": "Tanna House, Mahakavi Bhushan Rd, Apollo Bandar, Mumbai 400 039",
+        "Cuisine": " CHINESE",
+        "WebSite" : "www.tajhotels.com",
+        "ImageUrl" :"./Images/Golden-Dragon.jpg",
+        "Description" :"The Buddhist altar at the entrance bestows good luck, health, and prosperity upon arrival, encouraging diners to relax in atmospheric rooms resplendent with exquisite Chinese artifacts. The perfect location for an intimate dining experience, The Golden Dragon can provide private rooms catering for up to 12 guests."
+    }]
+}
