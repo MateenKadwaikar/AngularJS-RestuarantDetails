@@ -11,6 +11,11 @@ controller('RestaurantsController', ['$scope', 'dataFactory',
         dataFactory.getRestaurantsDetails().then(function(data) {
         	console.log(data.restaurantDetails);
         	$scope.details = data.restaurantDetails;
+        }).catch( function (error) {
+        	console.log(error);
+
         });
+
+     
     }
 ])
